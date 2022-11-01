@@ -10,7 +10,9 @@
     </head>
 <body>
     <div class="bar">
-
+        <div class="logo">
+            <img src="assets\img\logo.png" alt="MP Envelopamento" width="150">
+        </div>
     </div><!--bar-->
 </body>
 </html>

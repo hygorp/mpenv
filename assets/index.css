@@ -1,11 +1,18 @@
-*{
+html body{
     border: none;
     text-decoration: none;
     margin: 0;
+    background-color: #E6E6E6;
 }
 
 .bar{
     width: 100%;
-    height: 100px;
-    background-color: #000000;
+    height: 180px;
+    background-color: #1C1C1C;
+}
+.logo{
+    margin: 0 auto;
+    padding-top: 15px;
+    width: 120px;
+    height: auto;
 }
