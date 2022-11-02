@@ -14,12 +14,11 @@
 <body>
     <div class="bar">
         <div class="logo">
-            <img src="assets\img\logo.png" alt="MP Envelopamento" width="150">
+            <img src="assets\img\logo.png" title="MP Envelopamento" width="150" >
         </div>
 
         <nav class="navigation">
             <a href="#incio">Início</a>
-            <a href="#sobrenos">Sobre Nós</a>
             <a href="#servicos">Serviços</a>
             <a href="#portfolio">Portfolio</a>
             <a href="#contato">Contato</a>
@@ -29,7 +28,23 @@
     <div class="inicio">
             <video src="assets\vid\mpvidinst.mp4" loop muted autoplay></video>
             <div class="overlay"></div>
-            <h1>MP Envelopamento</h1>
+            <div class="apresentacao">
+                <h1>A MP Envelopamento</h1>
+                <p>
+                    A Mp Envelopamento faz o envelopamento ou adesivação de veículos, paredes, móveis, entre outros, usando materiais de alta qualidade e perfomance. Nossos trabalhos são executados com maestria e garantimos um resultado incrível. Trabalhamos com seriedade, buscando sempre a excelência. Sua satisfação é nossa prioridade. Somos a principal escolha em Maceió, então não perca tempo!
+                </p>
+            </div>
     </div><!--inicio-->
+    <div class="servicos">
+        <div class="portfolio">
+            <h1>Nosso Portfólio</h1>
+        </div>
+        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 01</div>
+        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 02</div>
+        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 03</div>
+        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 04</div>
+        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 05</div>
+        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 06</div>
+    </div>
 </body>
 </html>
