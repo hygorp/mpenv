@@ -39,12 +39,21 @@
         <div class="portfolio">
             <h1>Nosso Portfólio</h1>
         </div>
-        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 01</div>
-        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 02</div>
-        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 03</div>
-        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 04</div>
-        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 05</div>
-        <div class="section"><img src="https://lh4.googleusercontent.com/pYmQcb0-p-gopSdQQ1jdbC_Z_34yg9DN6CHYE8ZjmJnkZeYe6TzGk1LQYrYvhgaiS9_xiOFaHzMjboSiI7tHPPKhmfVGnk1D7WIyLPHbK-DRb0i7NsfdC26kv-NlmJU0yoajAoPPb5YdaqZ399UfVWq389V6dFOX4D8DurMzd76-QMWIOE3LyxAS_pgH4Ec0=w1280"><br>Imagem 06</div>
+        <div class="section"><img src="assets\img\port01.jpeg"><br>Imagem 01</div>
+        <div class="section"><img src="assets\img\port02.jpeg"><br>Imagem 02</div>
+        <div class="section"><img src="assets\img\port03.jpeg"><br>Imagem 03</div>
+        <div class="section"><img src="assets\img\port04.jpeg"><br>Imagem 04</div>
+        <div class="section"><img src="assets\img\port05.jpeg"><br>Imagem 05</div>
+        <div class="section"><img src="assets\img\port6.jpeg"><br>Imagem 06</div>
     </div>
+
+    <div class="localizacao">
+        <div class="map-title">
+            <h1>Nossa Localização</h1>
+        </div><!--map-title-->
+        <div class="mapa">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15733.402179406101!2d-35.7182919302246!3d-9.651058699999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x70145ba5ccccfd9%3A0xe32ee919e5d3fd1e!2sAv.%20Dr.%20Ant%C3%B4nio%20Gomes%20de%20Barros%2C%20930%20-%20Jati%C3%BAca%2C%20Macei%C3%B3%20-%20AL%2C%2057036-001!5e0!3m2!1spt-BR!2sbr!4v1667568067628!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div><!--mapa-->
+    </div><!--localizacao-->
 </body>
 </html>

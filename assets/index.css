@@ -95,8 +95,20 @@ html body{
 }
 .section img{
     padding-top: 10px;
-    width: 300px;
+    width: 350px;
     height: 300px;
+    cursor: pointer;
+}
+.section img:hover{
+    opacity: 0.8;
+}
+.map-title{
+    width: auto;
+}
+.map-title h1{
+    text-align: center;
+    background-color: #1C1C1C;
+    color: #FFFFFF;
 }
 @media only screen and (max-width: 796px){
     .navigation{
