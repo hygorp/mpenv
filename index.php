@@ -30,10 +30,10 @@
             <div class="overlay"></div>
             <div class="apresentacao">
                 <div class="whatsapp">
-                    <a href="https://wa.me/558299937569"><img src="https://img.icons8.com/color/512/whatsapp.png" width="128"></a><br>
-                    <span>Solicite um Orçamento</span>
+                    <span>qualidade máxima<br>em envelopalemento</span>
+                    <button type="button" onClick="parent.location='https://wa.me/558299937569'">whatsapp online</button>
                 </div><!--whatsapp-->
-                <iframe width="460" height="315" src="https://www.youtube.com/embed/_yhXdRIq-N0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe class="yt" width="460" height="315" src="https://www.youtube.com/embed/_yhXdRIq-N0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
     </div><!--inicio-->
     <div class="servicos" id="portfolio">

@@ -65,6 +65,7 @@ html body{
     float: left;
     padding-left: 10%;
     padding-top: 7%;
+    text-align: center;
 }
 .whatsapp a {
     float: left;
@@ -72,7 +73,23 @@ html body{
 }
 .whatsapp span{
     font-weight: bolder;
-    font-size: large;
+    font-size: 40px;
+    text-transform: uppercase;
+    display: block;
+}
+.whatsapp button{
+    text-transform: uppercase;
+    width: 250px;
+    height: 60px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #2fb140;
+}
+.whatsapp button:hover{
+    background-color: #299938;
 }
 .apresentacao{
     cursor: default;
@@ -151,35 +168,14 @@ html body{
 .social{
     text-align: center;
 }
-.frm-contato{
-    padding: 15px;
-    width: auto;
-    height: auto;
-}
-.frm-contato form{
-    text-align: center;
-}
-.frm-contato p{
-    text-align: center;
-    color: #FFFFFF;
-    font-weight: bold;
-}
-.frm-contato input{
-    width: 300px;
-    height: 20px;
-    border-radius: 3px;
-    border: thin solid;
-    margin-bottom: 27px;
-}
-.frm-contato textarea{
-    width: 300px;
-    height: 65px;
-}
+
 @media only screen and (max-width: 796px){
     .navigation{
         display: none;
     }
-
+    .yt{
+        display: none;
+    }
     .map{
         float: none;
     }
