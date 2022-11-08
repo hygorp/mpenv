@@ -2,7 +2,7 @@ html body{
     border: none;
     text-decoration: none;
     margin: 0;
-    background-color: #E6E6E6;
+    background-color: #1C1C1C;
     font-family: 'Nunito', sans-serif;
 }
 .bar{
@@ -61,9 +61,21 @@ html body{
     background-size: 2px 2px;
     z-index: 2;
 }
+.whatsapp{
+    float: left;
+    padding-left: 10%;
+    padding-top: 7%;
+}
+.whatsapp a {
+    float: left;
+    padding-left: 32px;
+}
+.whatsapp span{
+    font-weight: bolder;
+    font-size: large;
+}
 .apresentacao{
     cursor: default;
-    text-align: center;
     color: #fff;
     position: absolute;
     top: 0;
@@ -72,13 +84,14 @@ html body{
     right: 0;
     margin: auto;
     z-index: 2;
-    max-width: 1200px;
-    height: 100px;
+    padding-top: 80px;
+    padding-right: 80px;
+    text-align: right;
 }
-
 .servicos{
     text-align: center;
     width: auto;
+    background-color: #E3E3E3;
 }
 .portfolio{
     width: auto;
@@ -119,7 +132,7 @@ html body{
     font-weight: bold;
 }
 .funcionamento{
-    width: 400px;
+    width: 850px;
     height: auto;
     padding: 15px;
     float: left;
@@ -133,6 +146,7 @@ html body{
     color: #E3E3E3;
     display: block;
     text-align: center;
+    padding-top: 60px;
 }
 .social{
     text-align: center;
@@ -164,5 +178,12 @@ html body{
 @media only screen and (max-width: 796px){
     .navigation{
         display: none;
+    }
+
+    .map{
+        float: none;
+    }
+    .funcionamento{
+        float: none;
     }
 }
