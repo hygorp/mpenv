@@ -12,7 +12,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap" rel="stylesheet">
     </head>
 <body>
-    <div class="bar">
+    <div class="bar" id="inicio">
         <div class="logo">
             <img src="assets\img\logo.png" title="MP Envelopamento" width="150" >
         </div>
@@ -25,7 +25,7 @@
         </nav>
     </div><!--bar-->
 
-    <div class="inicio">
+    <div class="inicio" id="servicos">
             <video src="assets\vid\mpvidinst.mp4" loop muted autoplay></video>
             <div class="overlay"></div>
             <div class="apresentacao">
@@ -35,7 +35,7 @@
                 </p>
             </div>
     </div><!--inicio-->
-    <div class="servicos">
+    <div class="servicos" id="portfolio">
         <div class="portfolio">
             <h1>Nosso Portfólio</h1>
         </div>
@@ -46,14 +46,31 @@
         <div class="section"><img src="assets\img\port05.jpeg"><br>Imagem 05</div>
         <div class="section"><img src="assets\img\port6.jpeg"><br>Imagem 06</div>
     </div>
+    <div class="footer">
+        <div class="map">
+            <p>Nossa Localização</p>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15733.402179406101!2d-35.7095372!3d-9.6510587!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x277dfa273189b542!2sMP%20Envelopamento%2FAdesiva%C3%A7%C3%A3o%20(Automotivo%20e%20decor)!5e0!3m2!1spt-BR!2sbr!4v1667911086364!5m2!1spt-BR!2sbr" width="400" height="210" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div><!--map-->
 
-    <div class="localizacao">
-        <div class="map-title">
-            <h1>Nossa Localização</h1>
-        </div><!--map-title-->
-        <div class="mapa">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15733.402179406101!2d-35.7182919302246!3d-9.651058699999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x70145ba5ccccfd9%3A0xe32ee919e5d3fd1e!2sAv.%20Dr.%20Ant%C3%B4nio%20Gomes%20de%20Barros%2C%20930%20-%20Jati%C3%BAca%2C%20Macei%C3%B3%20-%20AL%2C%2057036-001!5e0!3m2!1spt-BR!2sbr!4v1667568067628!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div><!--mapa-->
-    </div><!--localizacao-->
+        <div class="funcionamento">
+            <p>Horário de Funcionamento</p>
+            <span>Segunda a Sexta de 08 as 12 e das 14 as 18hs<br> Sábados das 08 as 12</span>
+
+            <div class="social">
+                <p>Nossas Redes</p>
+                <a href="https://www.instagram.com/mpenvelopamentooficial"><img src="https://img.icons8.com/fluency/512/instagram-new.png" width="32"></a>
+                <a href="https://wa.me/558299937569"><img src="https://img.icons8.com/color/512/whatsapp.png" width="32"></a>
+            </div><!--social-->
+        </div><!--funcionamento-->
+
+        <div class="frm-contato">
+                <p>Deixe uma Mensagem!</p>
+                <form>
+                    <input type="text" name="nome" placeholder="Nome">
+                    <input type="text" name="telefone" placeholder="Telefone">
+                    <textarea name="mensagem" placeholder="Digite sua mensagem..."></textarea>
+                </form>
+            </div><!--frm-contato--> 
+    </div><!--footer-->
 </body>
 </html>

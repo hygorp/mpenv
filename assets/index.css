@@ -102,13 +102,64 @@ html body{
 .section img:hover{
     opacity: 0.8;
 }
-.map-title{
+.footer{
     width: auto;
-}
-.map-title h1{
-    text-align: center;
+    height: 300px;
     background-color: #1C1C1C;
+}
+.map{
+    width: 400px;
+    height: auto;
+    padding: 15px;
+    float: left;
+}
+.map p{
+    text-align: center;
     color: #FFFFFF;
+    font-weight: bold;
+}
+.funcionamento{
+    width: 400px;
+    height: auto;
+    padding: 15px;
+    float: left;
+}
+.funcionamento p{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.funcionamento span{
+    color: #E3E3E3;
+    display: block;
+    text-align: center;
+}
+.social{
+    text-align: center;
+}
+.frm-contato{
+    padding: 15px;
+    width: auto;
+    height: auto;
+}
+.frm-contato form{
+    text-align: center;
+}
+.frm-contato p{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.frm-contato input{
+    width: 300px;
+    height: 20px;
+    border-radius: 3px;
+    border: thin solid;
+    margin-bottom: 27px;
+}
+.frm-contato textarea{
+    width: 300px;
+    height: 65px;
 }
 @media only screen and (max-width: 796px){
     .navigation{
